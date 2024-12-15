@@ -25,3 +25,6 @@ git add .
 # Agregar al área de ensayo y hacer coomit
 git commit -am "Parrafo y color de fondo"
 
+# Abrir editor Vim y cambiar comentario del Commit
+git commit --amend
+
