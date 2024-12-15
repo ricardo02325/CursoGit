@@ -22,3 +22,6 @@ git reset --hard f53e5d1 #(Codigo del commit)
 # Agregar todos los archivos al área de ensayo
 git add .
 
+# Agregar al área de ensayo y hacer coomit
+git commit -am "Parrafo y color de fondo"
+
